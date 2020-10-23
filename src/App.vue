@@ -1,6 +1,6 @@
 <template>
 	<div id="app">
-		<HelloWorld msg="cnbeta" :articles="items" />
+		<HelloWorld msg="CNBETA新闻资讯" :articles="items" />
 	</div>
 </template>
 
